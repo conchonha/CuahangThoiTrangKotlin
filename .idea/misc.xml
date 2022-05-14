@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/fragment_gk_gt_bt.xml" value="0.1585144927536232" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/fragment_phapluat.xml" value="0.1585144927536232" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/fragment_theloaikhac.xml" value="0.1585144927536232" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/fragment_tpvanhocvietnam.xml" value="0.1585144927536232" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/fragment_vanhocdangian.xml" value="0.1585144927536232" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/layout/layoutdonhang.xml" value="0.12447916666666667" />
+        <entry key="..\:/android/android_java/CuaHangSach/android/CuaHangSachonline/app/src/main/res/menu/menudanhmuc.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

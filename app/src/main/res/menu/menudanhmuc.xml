@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Túi Sách Nữ"
+        android:id="@+id/vhdd"/>
+    <item android:title="Áo croptop"
+        android:id="@+id/gkgtbt"/>
+    <item android:title="Chân Váy"
+    android:id="@+id/pl"/>
+    <item android:title="Áo Phông"
+        android:id="@+id/tpvhvn"/>
+    <item android:title="Giày Cao Gót"
+        android:id="@+id/tlkhac"/>
+
+
+</menu>
